@@ -1,0 +1,1 @@
+"estou aprendendo a utilizar o git e o github para controlar as versäes dos meus algoritimos" 

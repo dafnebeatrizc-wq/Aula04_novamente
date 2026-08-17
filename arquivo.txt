@@ -1,1 +1,7 @@
-"estou aprendendo a utilizar o git e o github para controlar as vers�es dos meus algoritimos" 
+"estou aprendendo a utilizar o git e o github para controlar as versäes dos meus algoritimos" 
+
+
+RESUMO DAS AULAS (10/08 - 17/08)
+
+
+Nas aulas da semana passada até hoje, aprendi os conceitos básicos da lógica de programação e suas capacidades, incluindo capacidades técnicas, socioemocionais e de Inteligência Artificial. Também aprendi o que é um algoritmo, suas diferentes formas de representação e por que esses conceitos são importantes para o desenvolvimento de sistemas. Além disso, estudei a definição e a função de um sistema operacional, os mapas de pastas e a estrutura do Windows, bem como a navegação pelo terminal. Aprendi também sobre as classificações e categorias dos sistemas operacionais. Outro assunto abordado foi o conceito de versionamento, sua importância no desenvolvimento de sistemas e o ciclo básico do Git (init, status, add e commit). Também aprendi como o GitHub funciona e como utilizar suas principais ferramentas para gerenciar e compartilhar projetos. De forma geral, as aulas contribuíram para p meu entendimento sobre programação, sistemas operacionais, controle de versões, Git e GitHub.
